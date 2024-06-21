@@ -1,0 +1,1501 @@
+Faixa Etária,Gênero,Frequência de Compras,Valor Médio de Compra,Categoria de Produto Favorita
+>75,Feminino,Mensal,150-200,Bebidas
+46-55,Feminino,Diária,100-150,Higiene Pessoal
+56-65,Masculino,Diária,>200,Bebidas
+>75,Masculino,Mensal,50-100,Bebidas
+36-45,Masculino,Semanal,>200,Limpeza
+56-65,Masculino,Mensal,100-150,Higiene Pessoal
+56-65,Feminino,Diária,50-100,Outros
+>75,Feminino,Mensal,<50,Bebidas
+26-35,Feminino,Quinzenal,<50,Limpeza
+36-45,Masculino,Mensal,150-200,Higiene Pessoal
+>75,Feminino,Diária,100-150,Higiene Pessoal
+36-45,Masculino,Mensal,100-150,Alimentos
+36-45,Feminino,Semanal,<50,Alimentos
+56-65,Masculino,Mensal,>200,Bebidas
+46-55,Masculino,Semanal,50-100,Alimentos
+36-45,Feminino,Quinzenal,>200,Bebidas
+66-75,Feminino,Semanal,>200,Outros
+56-65,Feminino,Mensal,<50,Bebidas
+26-35,Feminino,Diária,<50,Alimentos
+46-55,Masculino,Semanal,<50,Outros
+66-75,Feminino,Quinzenal,150-200,Alimentos
+66-75,Feminino,Semanal,>200,Bebidas
+26-35,Feminino,Semanal,100-150,Limpeza
+46-55,Masculino,Semanal,50-100,Higiene Pessoal
+56-65,Masculino,Quinzenal,150-200,Alimentos
+18-25,Feminino,Mensal,100-150,Bebidas
+46-55,Masculino,Semanal,>200,Outros
+26-35,Feminino,Semanal,<50,Alimentos
+66-75,Masculino,Diária,>200,Alimentos
+56-65,Masculino,Quinzenal,50-100,Higiene Pessoal
+46-55,Masculino,Semanal,150-200,Bebidas
+18-25,Masculino,Quinzenal,150-200,Limpeza
+18-25,Feminino,Semanal,50-100,Outros
+36-45,Feminino,Mensal,100-150,Bebidas
+36-45,Feminino,Mensal,100-150,Outros
+>75,Masculino,Semanal,150-200,Alimentos
+26-35,Feminino,Mensal,150-200,Higiene Pessoal
+46-55,Feminino,Semanal,<50,Higiene Pessoal
+46-55,Feminino,Mensal,100-150,Limpeza
+>75,Masculino,Diária,50-100,Higiene Pessoal
+66-75,Masculino,Diária,100-150,Alimentos
+66-75,Masculino,Diária,<50,Limpeza
+>75,Feminino,Quinzenal,150-200,Bebidas
+66-75,Feminino,Quinzenal,150-200,Higiene Pessoal
+36-45,Feminino,Diária,<50,Limpeza
+46-55,Masculino,Quinzenal,50-100,Alimentos
+>75,Masculino,Mensal,150-200,Outros
+46-55,Feminino,Semanal,>200,Outros
+18-25,Masculino,Semanal,150-200,Alimentos
+36-45,Masculino,Semanal,>200,Alimentos
+56-65,Masculino,Diária,<50,Outros
+36-45,Masculino,Quinzenal,<50,Limpeza
+>75,Feminino,Mensal,150-200,Outros
+56-65,Masculino,Mensal,100-150,Alimentos
+18-25,Masculino,Diária,>200,Higiene Pessoal
+>75,Masculino,Mensal,50-100,Bebidas
+26-35,Masculino,Mensal,150-200,Higiene Pessoal
+46-55,Feminino,Mensal,50-100,Higiene Pessoal
+18-25,Feminino,Mensal,150-200,Alimentos
+46-55,Masculino,Quinzenal,100-150,Outros
+66-75,Masculino,Mensal,100-150,Limpeza
+26-35,Masculino,Semanal,100-150,Higiene Pessoal
+26-35,Masculino,Diária,100-150,Outros
+18-25,Masculino,Quinzenal,<50,Limpeza
+26-35,Masculino,Mensal,<50,Higiene Pessoal
+56-65,Feminino,Quinzenal,>200,Limpeza
+26-35,Masculino,Mensal,50-100,Outros
+46-55,Feminino,Semanal,150-200,Bebidas
+46-55,Feminino,Diária,150-200,Outros
+>75,Masculino,Mensal,<50,Alimentos
+46-55,Feminino,Mensal,150-200,Limpeza
+>75,Feminino,Mensal,<50,Bebidas
+46-55,Feminino,Mensal,>200,Limpeza
+56-65,Feminino,Diária,50-100,Limpeza
+>75,Feminino,Diária,>200,Higiene Pessoal
+36-45,Feminino,Semanal,100-150,Alimentos
+66-75,Masculino,Diária,100-150,Limpeza
+18-25,Feminino,Mensal,100-150,Outros
+46-55,Feminino,Semanal,>200,Outros
+26-35,Feminino,Semanal,150-200,Higiene Pessoal
+46-55,Masculino,Semanal,50-100,Alimentos
+26-35,Feminino,Mensal,100-150,Alimentos
+66-75,Masculino,Quinzenal,100-150,Outros
+66-75,Feminino,Mensal,100-150,Bebidas
+66-75,Masculino,Diária,50-100,Higiene Pessoal
+26-35,Masculino,Diária,100-150,Higiene Pessoal
+46-55,Feminino,Mensal,50-100,Outros
+66-75,Feminino,Mensal,100-150,Outros
+56-65,Masculino,Semanal,>200,Bebidas
+>75,Feminino,Mensal,>200,Bebidas
+26-35,Masculino,Semanal,50-100,Alimentos
+26-35,Masculino,Diária,>200,Higiene Pessoal
+46-55,Masculino,Semanal,50-100,Higiene Pessoal
+26-35,Masculino,Mensal,>200,Outros
+26-35,Masculino,Diária,>200,Alimentos
+66-75,Feminino,Quinzenal,50-100,Higiene Pessoal
+46-55,Masculino,Semanal,150-200,Alimentos
+66-75,Masculino,Diária,>200,Alimentos
+>75,Feminino,Semanal,100-150,Outros
+>75,Masculino,Diária,150-200,Alimentos
+66-75,Feminino,Diária,50-100,Bebidas
+>75,Feminino,Semanal,150-200,Bebidas
+46-55,Feminino,Quinzenal,<50,Limpeza
+18-25,Masculino,Diária,<50,Outros
+66-75,Masculino,Diária,>200,Limpeza
+56-65,Masculino,Diária,>200,Bebidas
+56-65,Feminino,Quinzenal,100-150,Limpeza
+26-35,Masculino,Quinzenal,150-200,Outros
+>75,Feminino,Mensal,<50,Outros
+56-65,Masculino,Semanal,>200,Alimentos
+26-35,Feminino,Quinzenal,150-200,Higiene Pessoal
+18-25,Masculino,Semanal,>200,Alimentos
+46-55,Masculino,Mensal,>200,Outros
+46-55,Masculino,Semanal,<50,Bebidas
+46-55,Feminino,Quinzenal,<50,Bebidas
+56-65,Feminino,Semanal,>200,Alimentos
+18-25,Masculino,Quinzenal,50-100,Outros
+56-65,Masculino,Semanal,>200,Bebidas
+>75,Feminino,Quinzenal,>200,Outros
+56-65,Feminino,Quinzenal,100-150,Bebidas
+18-25,Feminino,Semanal,100-150,Outros
+18-25,Masculino,Mensal,100-150,Limpeza
+>75,Feminino,Diária,50-100,Outros
+18-25,Masculino,Mensal,50-100,Outros
+18-25,Feminino,Semanal,>200,Alimentos
+46-55,Masculino,Mensal,100-150,Limpeza
+>75,Feminino,Quinzenal,50-100,Higiene Pessoal
+36-45,Feminino,Diária,<50,Alimentos
+36-45,Feminino,Semanal,>200,Higiene Pessoal
+18-25,Feminino,Semanal,150-200,Bebidas
+36-45,Feminino,Semanal,>200,Higiene Pessoal
+36-45,Masculino,Diária,150-200,Outros
+18-25,Feminino,Quinzenal,100-150,Higiene Pessoal
+36-45,Feminino,Semanal,150-200,Alimentos
+56-65,Feminino,Mensal,100-150,Alimentos
+26-35,Masculino,Semanal,<50,Higiene Pessoal
+>75,Feminino,Semanal,150-200,Alimentos
+26-35,Masculino,Semanal,>200,Alimentos
+18-25,Feminino,Semanal,100-150,Higiene Pessoal
+46-55,Feminino,Quinzenal,>200,Limpeza
+>75,Masculino,Mensal,50-100,Limpeza
+18-25,Feminino,Quinzenal,100-150,Bebidas
+46-55,Masculino,Mensal,150-200,Alimentos
+26-35,Masculino,Semanal,100-150,Higiene Pessoal
+18-25,Feminino,Diária,>200,Alimentos
+>75,Masculino,Quinzenal,<50,Outros
+>75,Feminino,Diária,100-150,Alimentos
+66-75,Feminino,Quinzenal,150-200,Alimentos
+56-65,Masculino,Semanal,50-100,Limpeza
+36-45,Masculino,Quinzenal,<50,Higiene Pessoal
+46-55,Masculino,Semanal,50-100,Alimentos
+66-75,Masculino,Quinzenal,100-150,Limpeza
+36-45,Feminino,Semanal,>200,Bebidas
+36-45,Feminino,Semanal,>200,Limpeza
+18-25,Masculino,Mensal,150-200,Limpeza
+36-45,Feminino,Semanal,>200,Limpeza
+56-65,Feminino,Mensal,<50,Alimentos
+>75,Feminino,Semanal,>200,Alimentos
+66-75,Feminino,Diária,150-200,Bebidas
+36-45,Masculino,Semanal,100-150,Outros
+18-25,Masculino,Diária,100-150,Outros
+56-65,Feminino,Diária,>200,Outros
+26-35,Masculino,Semanal,50-100,Bebidas
+>75,Masculino,Diária,100-150,Outros
+>75,Masculino,Mensal,>200,Outros
+66-75,Feminino,Quinzenal,150-200,Limpeza
+>75,Feminino,Semanal,>200,Alimentos
+36-45,Feminino,Diária,100-150,Alimentos
+18-25,Masculino,Semanal,150-200,Limpeza
+>75,Feminino,Mensal,>200,Limpeza
+>75,Feminino,Semanal,<50,Limpeza
+26-35,Masculino,Semanal,150-200,Alimentos
+26-35,Feminino,Diária,<50,Outros
+46-55,Feminino,Mensal,50-100,Limpeza
+56-65,Masculino,Quinzenal,150-200,Bebidas
+36-45,Masculino,Quinzenal,<50,Limpeza
+>75,Masculino,Diária,100-150,Higiene Pessoal
+>75,Feminino,Semanal,100-150,Limpeza
+18-25,Feminino,Diária,50-100,Alimentos
+46-55,Feminino,Diária,150-200,Limpeza
+56-65,Masculino,Diária,150-200,Higiene Pessoal
+46-55,Masculino,Semanal,150-200,Bebidas
+66-75,Feminino,Mensal,50-100,Outros
+56-65,Feminino,Diária,150-200,Limpeza
+>75,Masculino,Semanal,100-150,Higiene Pessoal
+>75,Masculino,Mensal,<50,Higiene Pessoal
+56-65,Masculino,Diária,100-150,Bebidas
+>75,Masculino,Quinzenal,100-150,Alimentos
+36-45,Feminino,Mensal,<50,Limpeza
+56-65,Masculino,Diária,100-150,Higiene Pessoal
+46-55,Feminino,Mensal,50-100,Bebidas
+56-65,Feminino,Mensal,<50,Outros
+>75,Feminino,Mensal,100-150,Higiene Pessoal
+36-45,Masculino,Mensal,>200,Bebidas
+36-45,Masculino,Mensal,100-150,Alimentos
+66-75,Masculino,Mensal,50-100,Alimentos
+46-55,Masculino,Diária,150-200,Higiene Pessoal
+26-35,Feminino,Quinzenal,100-150,Higiene Pessoal
+26-35,Masculino,Semanal,150-200,Limpeza
+56-65,Masculino,Mensal,>200,Bebidas
+66-75,Feminino,Semanal,100-150,Higiene Pessoal
+18-25,Masculino,Diária,<50,Limpeza
+56-65,Feminino,Mensal,150-200,Limpeza
+66-75,Feminino,Quinzenal,>200,Higiene Pessoal
+46-55,Feminino,Semanal,<50,Alimentos
+46-55,Feminino,Mensal,<50,Bebidas
+46-55,Feminino,Diária,<50,Bebidas
+46-55,Feminino,Quinzenal,<50,Alimentos
+46-55,Feminino,Semanal,100-150,Higiene Pessoal
+66-75,Feminino,Semanal,100-150,Bebidas
+66-75,Masculino,Mensal,100-150,Higiene Pessoal
+36-45,Masculino,Quinzenal,>200,Higiene Pessoal
+26-35,Masculino,Quinzenal,>200,Limpeza
+>75,Masculino,Quinzenal,>200,Alimentos
+46-55,Feminino,Quinzenal,50-100,Higiene Pessoal
+18-25,Masculino,Diária,>200,Outros
+>75,Feminino,Quinzenal,100-150,Alimentos
+66-75,Masculino,Semanal,100-150,Bebidas
+18-25,Masculino,Semanal,50-100,Limpeza
+18-25,Masculino,Diária,50-100,Bebidas
+18-25,Feminino,Semanal,>200,Bebidas
+36-45,Masculino,Semanal,150-200,Alimentos
+66-75,Feminino,Quinzenal,50-100,Bebidas
+18-25,Feminino,Semanal,<50,Higiene Pessoal
+46-55,Masculino,Diária,100-150,Bebidas
+56-65,Masculino,Quinzenal,<50,Limpeza
+18-25,Masculino,Mensal,100-150,Limpeza
+36-45,Feminino,Quinzenal,100-150,Outros
+>75,Masculino,Diária,50-100,Limpeza
+66-75,Feminino,Quinzenal,50-100,Bebidas
+36-45,Feminino,Quinzenal,<50,Limpeza
+18-25,Masculino,Diária,100-150,Alimentos
+66-75,Masculino,Quinzenal,<50,Limpeza
+56-65,Feminino,Diária,150-200,Higiene Pessoal
+18-25,Feminino,Diária,<50,Alimentos
+36-45,Feminino,Mensal,>200,Outros
+26-35,Masculino,Semanal,<50,Higiene Pessoal
+46-55,Feminino,Semanal,>200,Bebidas
+>75,Masculino,Quinzenal,>200,Bebidas
+36-45,Feminino,Quinzenal,>200,Bebidas
+66-75,Feminino,Mensal,150-200,Higiene Pessoal
+18-25,Masculino,Mensal,<50,Higiene Pessoal
+46-55,Feminino,Mensal,<50,Higiene Pessoal
+18-25,Masculino,Diária,150-200,Alimentos
+66-75,Masculino,Mensal,100-150,Alimentos
+18-25,Feminino,Mensal,50-100,Bebidas
+26-35,Masculino,Quinzenal,<50,Limpeza
+46-55,Masculino,Mensal,50-100,Bebidas
+46-55,Feminino,Diária,150-200,Outros
+66-75,Masculino,Diária,100-150,Alimentos
+>75,Masculino,Quinzenal,100-150,Higiene Pessoal
+26-35,Masculino,Mensal,100-150,Alimentos
+36-45,Feminino,Mensal,150-200,Higiene Pessoal
+18-25,Masculino,Diária,>200,Outros
+56-65,Feminino,Mensal,>200,Outros
+18-25,Feminino,Mensal,50-100,Alimentos
+18-25,Masculino,Mensal,>200,Higiene Pessoal
+36-45,Masculino,Semanal,>200,Outros
+18-25,Masculino,Quinzenal,100-150,Bebidas
+26-35,Feminino,Semanal,100-150,Bebidas
+26-35,Masculino,Quinzenal,50-100,Higiene Pessoal
+46-55,Masculino,Diária,<50,Alimentos
+66-75,Masculino,Mensal,50-100,Outros
+>75,Masculino,Quinzenal,50-100,Alimentos
+56-65,Masculino,Semanal,150-200,Bebidas
+18-25,Feminino,Mensal,150-200,Outros
+18-25,Feminino,Diária,50-100,Alimentos
+36-45,Masculino,Quinzenal,50-100,Limpeza
+66-75,Masculino,Quinzenal,50-100,Higiene Pessoal
+26-35,Masculino,Quinzenal,>200,Higiene Pessoal
+56-65,Masculino,Mensal,150-200,Limpeza
+46-55,Feminino,Semanal,50-100,Bebidas
+26-35,Masculino,Semanal,100-150,Outros
+66-75,Feminino,Quinzenal,100-150,Higiene Pessoal
+>75,Feminino,Diária,>200,Limpeza
+46-55,Masculino,Diária,>200,Limpeza
+>75,Feminino,Semanal,<50,Bebidas
+36-45,Feminino,Diária,<50,Bebidas
+36-45,Feminino,Semanal,<50,Alimentos
+18-25,Feminino,Quinzenal,>200,Higiene Pessoal
+>75,Masculino,Semanal,>200,Alimentos
+66-75,Masculino,Semanal,>200,Limpeza
+56-65,Feminino,Quinzenal,100-150,Outros
+46-55,Masculino,Diária,>200,Outros
+26-35,Masculino,Semanal,100-150,Bebidas
+66-75,Masculino,Semanal,<50,Outros
+66-75,Masculino,Quinzenal,<50,Outros
+36-45,Masculino,Diária,<50,Outros
+>75,Feminino,Semanal,50-100,Limpeza
+18-25,Masculino,Quinzenal,50-100,Outros
+18-25,Masculino,Semanal,150-200,Outros
+46-55,Masculino,Mensal,150-200,Outros
+36-45,Masculino,Quinzenal,150-200,Alimentos
+66-75,Feminino,Diária,50-100,Limpeza
+56-65,Feminino,Diária,50-100,Bebidas
+36-45,Feminino,Diária,150-200,Alimentos
+46-55,Feminino,Diária,150-200,Higiene Pessoal
+46-55,Masculino,Semanal,>200,Limpeza
+36-45,Feminino,Semanal,150-200,Limpeza
+46-55,Masculino,Diária,>200,Higiene Pessoal
+36-45,Masculino,Diária,100-150,Higiene Pessoal
+26-35,Masculino,Diária,50-100,Higiene Pessoal
+36-45,Masculino,Semanal,150-200,Bebidas
+>75,Masculino,Diária,50-100,Outros
+36-45,Feminino,Diária,50-100,Limpeza
+46-55,Feminino,Mensal,50-100,Outros
+>75,Feminino,Mensal,100-150,Outros
+46-55,Feminino,Diária,<50,Higiene Pessoal
+18-25,Masculino,Quinzenal,150-200,Bebidas
+18-25,Feminino,Diária,<50,Alimentos
+>75,Masculino,Mensal,<50,Bebidas
+26-35,Feminino,Quinzenal,<50,Outros
+18-25,Masculino,Quinzenal,50-100,Bebidas
+36-45,Masculino,Diária,>200,Higiene Pessoal
+46-55,Feminino,Mensal,50-100,Alimentos
+18-25,Masculino,Mensal,50-100,Higiene Pessoal
+18-25,Masculino,Quinzenal,<50,Alimentos
+26-35,Feminino,Diária,50-100,Outros
+>75,Masculino,Semanal,<50,Alimentos
+>75,Feminino,Semanal,>200,Alimentos
+66-75,Feminino,Mensal,150-200,Alimentos
+26-35,Feminino,Semanal,<50,Bebidas
+36-45,Masculino,Mensal,>200,Bebidas
+>75,Masculino,Mensal,150-200,Outros
+46-55,Masculino,Mensal,100-150,Alimentos
+26-35,Feminino,Semanal,<50,Limpeza
+18-25,Masculino,Mensal,<50,Outros
+46-55,Feminino,Quinzenal,100-150,Alimentos
+46-55,Feminino,Diária,100-150,Alimentos
+18-25,Masculino,Diária,<50,Bebidas
+26-35,Feminino,Mensal,100-150,Outros
+18-25,Masculino,Diária,50-100,Alimentos
+66-75,Masculino,Semanal,150-200,Alimentos
+46-55,Masculino,Semanal,150-200,Outros
+56-65,Masculino,Diária,150-200,Limpeza
+56-65,Masculino,Semanal,50-100,Outros
+36-45,Feminino,Diária,100-150,Outros
+>75,Feminino,Diária,>200,Limpeza
+18-25,Feminino,Diária,100-150,Outros
+18-25,Masculino,Mensal,<50,Alimentos
+36-45,Masculino,Diária,150-200,Outros
+36-45,Masculino,Mensal,100-150,Limpeza
+36-45,Feminino,Diária,>200,Higiene Pessoal
+46-55,Masculino,Diária,<50,Outros
+66-75,Feminino,Diária,50-100,Bebidas
+18-25,Feminino,Semanal,50-100,Alimentos
+46-55,Masculino,Mensal,>200,Alimentos
+36-45,Masculino,Mensal,<50,Bebidas
+18-25,Feminino,Diária,150-200,Bebidas
+46-55,Masculino,Diária,100-150,Outros
+66-75,Feminino,Semanal,<50,Bebidas
+46-55,Masculino,Semanal,50-100,Higiene Pessoal
+66-75,Masculino,Semanal,>200,Limpeza
+36-45,Feminino,Mensal,>200,Bebidas
+66-75,Masculino,Mensal,100-150,Bebidas
+18-25,Feminino,Mensal,>200,Higiene Pessoal
+36-45,Masculino,Diária,>200,Alimentos
+18-25,Feminino,Mensal,<50,Alimentos
+56-65,Feminino,Quinzenal,150-200,Outros
+26-35,Masculino,Quinzenal,100-150,Higiene Pessoal
+66-75,Feminino,Semanal,<50,Limpeza
+26-35,Masculino,Mensal,150-200,Limpeza
+26-35,Masculino,Quinzenal,<50,Higiene Pessoal
+66-75,Masculino,Semanal,<50,Limpeza
+36-45,Feminino,Mensal,>200,Alimentos
+56-65,Feminino,Diária,150-200,Limpeza
+18-25,Masculino,Quinzenal,100-150,Limpeza
+46-55,Masculino,Diária,100-150,Higiene Pessoal
+18-25,Feminino,Mensal,150-200,Higiene Pessoal
+46-55,Masculino,Quinzenal,>200,Limpeza
+18-25,Masculino,Mensal,50-100,Bebidas
+66-75,Feminino,Diária,<50,Higiene Pessoal
+56-65,Masculino,Quinzenal,>200,Outros
+46-55,Feminino,Diária,150-200,Outros
+>75,Masculino,Mensal,<50,Alimentos
+36-45,Feminino,Mensal,100-150,Limpeza
+18-25,Masculino,Diária,50-100,Bebidas
+18-25,Masculino,Quinzenal,100-150,Alimentos
+46-55,Feminino,Diária,150-200,Limpeza
+36-45,Masculino,Mensal,<50,Higiene Pessoal
+36-45,Feminino,Diária,150-200,Outros
+66-75,Masculino,Mensal,<50,Bebidas
+>75,Feminino,Diária,>200,Outros
+66-75,Feminino,Quinzenal,50-100,Higiene Pessoal
+66-75,Feminino,Quinzenal,>200,Limpeza
+66-75,Feminino,Diária,>200,Higiene Pessoal
+66-75,Masculino,Diária,150-200,Higiene Pessoal
+66-75,Masculino,Quinzenal,50-100,Outros
+56-65,Feminino,Mensal,<50,Bebidas
+36-45,Feminino,Quinzenal,<50,Higiene Pessoal
+66-75,Feminino,Mensal,100-150,Outros
+36-45,Masculino,Diária,<50,Bebidas
+36-45,Masculino,Diária,150-200,Limpeza
+26-35,Masculino,Mensal,>200,Limpeza
+56-65,Masculino,Diária,>200,Alimentos
+66-75,Feminino,Mensal,>200,Outros
+18-25,Feminino,Semanal,50-100,Bebidas
+46-55,Feminino,Quinzenal,<50,Higiene Pessoal
+>75,Masculino,Semanal,150-200,Limpeza
+18-25,Masculino,Mensal,50-100,Bebidas
+56-65,Masculino,Quinzenal,100-150,Outros
+46-55,Feminino,Mensal,150-200,Alimentos
+56-65,Feminino,Quinzenal,150-200,Limpeza
+36-45,Masculino,Quinzenal,150-200,Bebidas
+46-55,Feminino,Quinzenal,>200,Bebidas
+36-45,Masculino,Quinzenal,150-200,Bebidas
+18-25,Masculino,Mensal,<50,Outros
+18-25,Feminino,Quinzenal,150-200,Outros
+46-55,Masculino,Quinzenal,>200,Outros
+46-55,Feminino,Semanal,150-200,Higiene Pessoal
+66-75,Masculino,Diária,100-150,Bebidas
+56-65,Feminino,Diária,100-150,Limpeza
+66-75,Feminino,Semanal,>200,Outros
+56-65,Feminino,Semanal,<50,Outros
+66-75,Masculino,Mensal,<50,Bebidas
+36-45,Masculino,Mensal,50-100,Outros
+46-55,Feminino,Mensal,>200,Higiene Pessoal
+18-25,Feminino,Semanal,150-200,Higiene Pessoal
+56-65,Masculino,Semanal,>200,Outros
+56-65,Masculino,Quinzenal,50-100,Bebidas
+18-25,Masculino,Mensal,>200,Bebidas
+66-75,Feminino,Mensal,>200,Bebidas
+56-65,Masculino,Mensal,50-100,Alimentos
+>75,Masculino,Diária,<50,Outros
+36-45,Feminino,Quinzenal,150-200,Bebidas
+46-55,Masculino,Mensal,50-100,Higiene Pessoal
+18-25,Masculino,Mensal,100-150,Limpeza
+46-55,Masculino,Mensal,<50,Limpeza
+>75,Feminino,Diária,100-150,Bebidas
+56-65,Feminino,Diária,<50,Limpeza
+56-65,Feminino,Semanal,150-200,Limpeza
+>75,Feminino,Quinzenal,150-200,Alimentos
+18-25,Feminino,Semanal,>200,Higiene Pessoal
+36-45,Feminino,Quinzenal,100-150,Higiene Pessoal
+26-35,Feminino,Diária,<50,Alimentos
+18-25,Masculino,Mensal,150-200,Alimentos
+26-35,Masculino,Semanal,50-100,Limpeza
+>75,Feminino,Mensal,150-200,Outros
+66-75,Masculino,Semanal,50-100,Limpeza
+26-35,Masculino,Diária,<50,Alimentos
+36-45,Feminino,Diária,150-200,Higiene Pessoal
+66-75,Masculino,Diária,150-200,Limpeza
+26-35,Masculino,Semanal,<50,Outros
+>75,Masculino,Quinzenal,150-200,Limpeza
+66-75,Masculino,Semanal,50-100,Bebidas
+>75,Masculino,Quinzenal,150-200,Limpeza
+26-35,Feminino,Semanal,100-150,Alimentos
+>75,Feminino,Semanal,>200,Higiene Pessoal
+36-45,Feminino,Diária,50-100,Higiene Pessoal
+26-35,Masculino,Mensal,100-150,Alimentos
+26-35,Feminino,Mensal,<50,Bebidas
+26-35,Masculino,Quinzenal,50-100,Alimentos
+18-25,Masculino,Mensal,>200,Limpeza
+18-25,Masculino,Semanal,>200,Alimentos
+18-25,Masculino,Semanal,<50,Alimentos
+36-45,Feminino,Diária,<50,Bebidas
+66-75,Feminino,Diária,50-100,Limpeza
+>75,Masculino,Mensal,150-200,Outros
+56-65,Feminino,Quinzenal,<50,Outros
+26-35,Masculino,Mensal,150-200,Higiene Pessoal
+>75,Feminino,Mensal,100-150,Alimentos
+26-35,Feminino,Mensal,>200,Higiene Pessoal
+36-45,Masculino,Mensal,150-200,Bebidas
+26-35,Feminino,Semanal,>200,Outros
+18-25,Masculino,Quinzenal,150-200,Alimentos
+56-65,Feminino,Semanal,100-150,Bebidas
+46-55,Masculino,Quinzenal,<50,Bebidas
+26-35,Masculino,Diária,100-150,Alimentos
+>75,Feminino,Mensal,<50,Bebidas
+18-25,Feminino,Semanal,<50,Alimentos
+46-55,Masculino,Quinzenal,>200,Alimentos
+56-65,Feminino,Diária,100-150,Limpeza
+46-55,Feminino,Diária,150-200,Higiene Pessoal
+18-25,Masculino,Mensal,100-150,Bebidas
+66-75,Masculino,Quinzenal,>200,Bebidas
+66-75,Feminino,Semanal,<50,Limpeza
+46-55,Masculino,Mensal,>200,Limpeza
+36-45,Masculino,Semanal,50-100,Limpeza
+>75,Masculino,Diária,50-100,Outros
+>75,Feminino,Semanal,150-200,Outros
+46-55,Feminino,Semanal,>200,Outros
+26-35,Masculino,Mensal,150-200,Alimentos
+26-35,Feminino,Semanal,150-200,Bebidas
+>75,Masculino,Mensal,50-100,Higiene Pessoal
+>75,Feminino,Diária,150-200,Alimentos
+66-75,Masculino,Mensal,50-100,Bebidas
+36-45,Masculino,Mensal,<50,Bebidas
+18-25,Feminino,Quinzenal,>200,Limpeza
+26-35,Masculino,Semanal,150-200,Limpeza
+>75,Feminino,Diária,50-100,Alimentos
+66-75,Feminino,Mensal,100-150,Limpeza
+56-65,Masculino,Diária,150-200,Bebidas
+66-75,Masculino,Quinzenal,<50,Limpeza
+26-35,Feminino,Semanal,<50,Outros
+26-35,Masculino,Mensal,100-150,Limpeza
+66-75,Masculino,Semanal,50-100,Bebidas
+18-25,Masculino,Quinzenal,150-200,Alimentos
+46-55,Masculino,Quinzenal,50-100,Higiene Pessoal
+26-35,Masculino,Diária,<50,Limpeza
+66-75,Feminino,Mensal,50-100,Bebidas
+>75,Feminino,Diária,<50,Higiene Pessoal
+66-75,Masculino,Quinzenal,50-100,Higiene Pessoal
+36-45,Masculino,Semanal,100-150,Outros
+46-55,Masculino,Diária,>200,Higiene Pessoal
+56-65,Feminino,Diária,100-150,Bebidas
+18-25,Masculino,Semanal,100-150,Bebidas
+56-65,Feminino,Diária,>200,Limpeza
+46-55,Feminino,Semanal,>200,Limpeza
+46-55,Feminino,Mensal,150-200,Limpeza
+46-55,Masculino,Semanal,150-200,Higiene Pessoal
+56-65,Feminino,Mensal,100-150,Higiene Pessoal
+>75,Masculino,Semanal,100-150,Outros
+46-55,Feminino,Quinzenal,<50,Limpeza
+66-75,Masculino,Quinzenal,<50,Alimentos
+56-65,Feminino,Mensal,150-200,Outros
+46-55,Masculino,Mensal,150-200,Alimentos
+66-75,Feminino,Quinzenal,<50,Higiene Pessoal
+>75,Masculino,Mensal,<50,Outros
+36-45,Masculino,Semanal,50-100,Outros
+>75,Masculino,Semanal,50-100,Bebidas
+46-55,Masculino,Quinzenal,<50,Higiene Pessoal
+56-65,Feminino,Diária,50-100,Higiene Pessoal
+26-35,Feminino,Semanal,>200,Outros
+46-55,Masculino,Mensal,150-200,Higiene Pessoal
+26-35,Feminino,Diária,150-200,Outros
+66-75,Masculino,Diária,<50,Bebidas
+36-45,Masculino,Semanal,100-150,Outros
+18-25,Feminino,Semanal,<50,Higiene Pessoal
+>75,Masculino,Diária,50-100,Higiene Pessoal
+36-45,Masculino,Diária,100-150,Outros
+46-55,Feminino,Quinzenal,50-100,Outros
+26-35,Masculino,Mensal,>200,Outros
+>75,Masculino,Quinzenal,50-100,Limpeza
+26-35,Masculino,Semanal,>200,Higiene Pessoal
+56-65,Masculino,Quinzenal,>200,Higiene Pessoal
+26-35,Feminino,Quinzenal,50-100,Limpeza
+56-65,Feminino,Quinzenal,50-100,Outros
+66-75,Feminino,Quinzenal,>200,Bebidas
+>75,Masculino,Mensal,100-150,Outros
+>75,Masculino,Mensal,>200,Outros
+18-25,Feminino,Diária,150-200,Limpeza
+46-55,Masculino,Semanal,>200,Higiene Pessoal
+56-65,Masculino,Quinzenal,100-150,Outros
+18-25,Masculino,Diária,150-200,Higiene Pessoal
+26-35,Masculino,Diária,<50,Alimentos
+26-35,Feminino,Diária,<50,Higiene Pessoal
+18-25,Feminino,Mensal,100-150,Bebidas
+>75,Feminino,Quinzenal,>200,Bebidas
+26-35,Masculino,Quinzenal,50-100,Outros
+66-75,Feminino,Semanal,100-150,Higiene Pessoal
+66-75,Feminino,Quinzenal,150-200,Outros
+18-25,Masculino,Quinzenal,150-200,Limpeza
+56-65,Masculino,Diária,<50,Bebidas
+56-65,Feminino,Semanal,150-200,Outros
+18-25,Feminino,Quinzenal,100-150,Limpeza
+56-65,Feminino,Mensal,150-200,Outros
+>75,Feminino,Quinzenal,100-150,Higiene Pessoal
+>75,Masculino,Diária,50-100,Higiene Pessoal
+56-65,Feminino,Mensal,<50,Higiene Pessoal
+66-75,Feminino,Diária,150-200,Higiene Pessoal
+56-65,Masculino,Quinzenal,100-150,Alimentos
+>75,Feminino,Mensal,>200,Limpeza
+36-45,Masculino,Semanal,<50,Limpeza
+46-55,Masculino,Semanal,50-100,Higiene Pessoal
+26-35,Masculino,Mensal,100-150,Alimentos
+36-45,Feminino,Mensal,50-100,Higiene Pessoal
+56-65,Feminino,Diária,50-100,Alimentos
+66-75,Masculino,Mensal,150-200,Higiene Pessoal
+18-25,Feminino,Diária,150-200,Bebidas
+56-65,Feminino,Quinzenal,100-150,Bebidas
+66-75,Masculino,Diária,>200,Outros
+46-55,Masculino,Mensal,100-150,Higiene Pessoal
+56-65,Feminino,Mensal,>200,Limpeza
+>75,Masculino,Quinzenal,50-100,Outros
+18-25,Feminino,Mensal,<50,Bebidas
+66-75,Feminino,Mensal,100-150,Higiene Pessoal
+66-75,Feminino,Semanal,100-150,Outros
+66-75,Feminino,Semanal,>200,Higiene Pessoal
+46-55,Masculino,Quinzenal,50-100,Bebidas
+56-65,Masculino,Diária,50-100,Outros
+46-55,Masculino,Semanal,>200,Bebidas
+26-35,Masculino,Diária,50-100,Alimentos
+26-35,Feminino,Mensal,150-200,Bebidas
+56-65,Feminino,Semanal,<50,Higiene Pessoal
+>75,Masculino,Quinzenal,100-150,Limpeza
+46-55,Feminino,Quinzenal,<50,Bebidas
+18-25,Feminino,Quinzenal,100-150,Limpeza
+66-75,Feminino,Semanal,150-200,Alimentos
+66-75,Masculino,Diária,50-100,Outros
+56-65,Masculino,Mensal,>200,Outros
+>75,Masculino,Diária,150-200,Limpeza
+26-35,Feminino,Diária,<50,Outros
+26-35,Masculino,Mensal,>200,Bebidas
+66-75,Masculino,Mensal,50-100,Limpeza
+56-65,Masculino,Semanal,150-200,Higiene Pessoal
+46-55,Masculino,Semanal,>200,Bebidas
+26-35,Masculino,Semanal,150-200,Bebidas
+46-55,Masculino,Semanal,150-200,Bebidas
+>75,Feminino,Semanal,50-100,Higiene Pessoal
+26-35,Feminino,Mensal,100-150,Alimentos
+26-35,Masculino,Diária,>200,Outros
+36-45,Masculino,Semanal,50-100,Limpeza
+26-35,Feminino,Semanal,150-200,Alimentos
+18-25,Feminino,Diária,50-100,Limpeza
+56-65,Masculino,Semanal,100-150,Outros
+56-65,Masculino,Diária,>200,Higiene Pessoal
+46-55,Masculino,Diária,100-150,Bebidas
+>75,Masculino,Mensal,<50,Bebidas
+26-35,Feminino,Quinzenal,>200,Higiene Pessoal
+18-25,Masculino,Mensal,100-150,Alimentos
+46-55,Masculino,Quinzenal,150-200,Alimentos
+36-45,Masculino,Quinzenal,>200,Limpeza
+46-55,Masculino,Quinzenal,>200,Higiene Pessoal
+46-55,Feminino,Semanal,50-100,Alimentos
+26-35,Feminino,Mensal,150-200,Higiene Pessoal
+36-45,Feminino,Quinzenal,<50,Outros
+46-55,Masculino,Diária,100-150,Bebidas
+18-25,Masculino,Semanal,50-100,Bebidas
+18-25,Feminino,Mensal,100-150,Bebidas
+56-65,Masculino,Quinzenal,<50,Higiene Pessoal
+36-45,Masculino,Diária,<50,Higiene Pessoal
+36-45,Feminino,Mensal,>200,Limpeza
+56-65,Feminino,Mensal,<50,Bebidas
+46-55,Feminino,Semanal,100-150,Limpeza
+36-45,Feminino,Mensal,150-200,Bebidas
+18-25,Masculino,Semanal,150-200,Limpeza
+18-25,Masculino,Quinzenal,>200,Limpeza
+26-35,Feminino,Semanal,100-150,Outros
+36-45,Masculino,Diária,100-150,Limpeza
+46-55,Feminino,Semanal,<50,Higiene Pessoal
+56-65,Feminino,Diária,100-150,Limpeza
+56-65,Masculino,Semanal,50-100,Bebidas
+46-55,Feminino,Mensal,<50,Limpeza
+>75,Masculino,Quinzenal,50-100,Alimentos
+66-75,Masculino,Diária,>200,Bebidas
+26-35,Masculino,Semanal,150-200,Alimentos
+56-65,Masculino,Semanal,>200,Bebidas
+36-45,Feminino,Semanal,150-200,Higiene Pessoal
+26-35,Masculino,Mensal,>200,Higiene Pessoal
+36-45,Feminino,Mensal,100-150,Higiene Pessoal
+>75,Feminino,Diária,50-100,Alimentos
+18-25,Feminino,Diária,150-200,Outros
+26-35,Feminino,Mensal,<50,Bebidas
+56-65,Masculino,Diária,50-100,Higiene Pessoal
+26-35,Masculino,Quinzenal,<50,Bebidas
+26-35,Feminino,Quinzenal,50-100,Alimentos
+26-35,Feminino,Mensal,50-100,Outros
+66-75,Masculino,Diária,>200,Alimentos
+26-35,Feminino,Semanal,150-200,Bebidas
+36-45,Masculino,Quinzenal,150-200,Outros
+18-25,Feminino,Mensal,50-100,Outros
+>75,Masculino,Diária,100-150,Alimentos
+46-55,Feminino,Mensal,100-150,Higiene Pessoal
+26-35,Feminino,Semanal,<50,Bebidas
+56-65,Masculino,Quinzenal,<50,Limpeza
+26-35,Feminino,Mensal,>200,Limpeza
+56-65,Feminino,Mensal,50-100,Alimentos
+36-45,Masculino,Mensal,<50,Bebidas
+56-65,Feminino,Semanal,<50,Bebidas
+46-55,Masculino,Mensal,50-100,Alimentos
+18-25,Masculino,Semanal,>200,Bebidas
+56-65,Feminino,Semanal,<50,Higiene Pessoal
+56-65,Feminino,Semanal,>200,Alimentos
+18-25,Feminino,Quinzenal,150-200,Higiene Pessoal
+46-55,Feminino,Quinzenal,>200,Bebidas
+26-35,Feminino,Mensal,100-150,Alimentos
+56-65,Feminino,Mensal,100-150,Bebidas
+18-25,Feminino,Quinzenal,>200,Alimentos
+36-45,Masculino,Diária,100-150,Bebidas
+18-25,Feminino,Quinzenal,150-200,Higiene Pessoal
+36-45,Masculino,Semanal,50-100,Higiene Pessoal
+46-55,Feminino,Quinzenal,100-150,Bebidas
+26-35,Feminino,Semanal,100-150,Alimentos
+18-25,Masculino,Mensal,>200,Limpeza
+>75,Feminino,Diária,150-200,Higiene Pessoal
+>75,Feminino,Mensal,50-100,Higiene Pessoal
+66-75,Masculino,Semanal,>200,Limpeza
+56-65,Feminino,Semanal,>200,Bebidas
+46-55,Feminino,Semanal,150-200,Alimentos
+18-25,Feminino,Diária,50-100,Bebidas
+>75,Masculino,Quinzenal,150-200,Outros
+56-65,Feminino,Mensal,50-100,Higiene Pessoal
+>75,Feminino,Mensal,150-200,Outros
+18-25,Feminino,Quinzenal,>200,Higiene Pessoal
+36-45,Feminino,Mensal,>200,Higiene Pessoal
+18-25,Masculino,Diária,<50,Outros
+66-75,Masculino,Mensal,100-150,Outros
+18-25,Feminino,Semanal,150-200,Bebidas
+18-25,Feminino,Quinzenal,<50,Outros
+66-75,Masculino,Diária,100-150,Bebidas
+46-55,Masculino,Quinzenal,150-200,Bebidas
+18-25,Feminino,Diária,50-100,Bebidas
+66-75,Masculino,Semanal,100-150,Higiene Pessoal
+56-65,Feminino,Quinzenal,>200,Higiene Pessoal
+36-45,Masculino,Mensal,<50,Outros
+36-45,Masculino,Diária,100-150,Higiene Pessoal
+18-25,Masculino,Quinzenal,100-150,Outros
+46-55,Masculino,Mensal,>200,Higiene Pessoal
+46-55,Feminino,Quinzenal,150-200,Alimentos
+56-65,Masculino,Quinzenal,50-100,Alimentos
+18-25,Masculino,Quinzenal,>200,Outros
+36-45,Feminino,Diária,50-100,Higiene Pessoal
+46-55,Masculino,Mensal,150-200,Higiene Pessoal
+18-25,Masculino,Semanal,100-150,Bebidas
+>75,Feminino,Diária,50-100,Limpeza
+46-55,Masculino,Diária,<50,Outros
+66-75,Feminino,Diária,<50,Limpeza
+>75,Feminino,Semanal,>200,Limpeza
+46-55,Feminino,Mensal,150-200,Outros
+36-45,Feminino,Mensal,>200,Higiene Pessoal
+26-35,Masculino,Mensal,>200,Outros
+>75,Feminino,Quinzenal,>200,Limpeza
+56-65,Masculino,Quinzenal,<50,Higiene Pessoal
+56-65,Masculino,Quinzenal,<50,Alimentos
+36-45,Masculino,Semanal,>200,Outros
+46-55,Masculino,Quinzenal,<50,Outros
+18-25,Masculino,Semanal,150-200,Higiene Pessoal
+46-55,Masculino,Mensal,>200,Alimentos
+36-45,Masculino,Quinzenal,<50,Alimentos
+56-65,Masculino,Quinzenal,50-100,Higiene Pessoal
+46-55,Masculino,Diária,>200,Bebidas
+56-65,Masculino,Semanal,>200,Outros
+>75,Feminino,Mensal,150-200,Outros
+18-25,Feminino,Diária,100-150,Limpeza
+>75,Feminino,Diária,100-150,Higiene Pessoal
+56-65,Masculino,Mensal,150-200,Limpeza
+56-65,Feminino,Diária,150-200,Limpeza
+26-35,Feminino,Semanal,150-200,Alimentos
+26-35,Feminino,Semanal,100-150,Outros
+>75,Masculino,Quinzenal,150-200,Limpeza
+66-75,Masculino,Diária,<50,Alimentos
+>75,Masculino,Quinzenal,>200,Higiene Pessoal
+26-35,Masculino,Diária,>200,Limpeza
+56-65,Feminino,Semanal,50-100,Outros
+36-45,Feminino,Semanal,50-100,Limpeza
+>75,Feminino,Semanal,>200,Higiene Pessoal
+56-65,Feminino,Diária,<50,Limpeza
+36-45,Masculino,Semanal,100-150,Outros
+36-45,Masculino,Diária,100-150,Alimentos
+26-35,Masculino,Quinzenal,<50,Outros
+>75,Feminino,Diária,100-150,Alimentos
+46-55,Masculino,Quinzenal,150-200,Bebidas
+18-25,Masculino,Diária,>200,Outros
+26-35,Feminino,Quinzenal,>200,Outros
+26-35,Feminino,Semanal,<50,Higiene Pessoal
+46-55,Masculino,Quinzenal,100-150,Limpeza
+18-25,Masculino,Semanal,50-100,Alimentos
+56-65,Masculino,Semanal,50-100,Alimentos
+66-75,Masculino,Quinzenal,100-150,Higiene Pessoal
+>75,Masculino,Diária,50-100,Higiene Pessoal
+66-75,Masculino,Diária,<50,Limpeza
+56-65,Feminino,Mensal,<50,Limpeza
+26-35,Feminino,Diária,100-150,Outros
+18-25,Feminino,Mensal,50-100,Bebidas
+26-35,Masculino,Diária,<50,Limpeza
+36-45,Feminino,Diária,<50,Higiene Pessoal
+26-35,Masculino,Semanal,150-200,Limpeza
+26-35,Masculino,Mensal,150-200,Alimentos
+56-65,Feminino,Diária,<50,Bebidas
+56-65,Masculino,Mensal,100-150,Outros
+56-65,Masculino,Semanal,>200,Alimentos
+66-75,Feminino,Semanal,>200,Alimentos
+36-45,Feminino,Mensal,<50,Bebidas
+56-65,Feminino,Semanal,<50,Outros
+18-25,Masculino,Quinzenal,<50,Higiene Pessoal
+66-75,Feminino,Quinzenal,100-150,Outros
+46-55,Feminino,Semanal,150-200,Limpeza
+18-25,Masculino,Quinzenal,<50,Alimentos
+>75,Feminino,Diária,<50,Limpeza
+>75,Feminino,Mensal,50-100,Higiene Pessoal
+18-25,Feminino,Diária,100-150,Limpeza
+56-65,Masculino,Mensal,<50,Outros
+46-55,Masculino,Semanal,50-100,Limpeza
+46-55,Masculino,Diária,>200,Higiene Pessoal
+66-75,Masculino,Semanal,<50,Higiene Pessoal
+46-55,Feminino,Semanal,<50,Higiene Pessoal
+>75,Masculino,Mensal,50-100,Outros
+36-45,Masculino,Mensal,100-150,Higiene Pessoal
+56-65,Feminino,Mensal,<50,Alimentos
+46-55,Feminino,Diária,>200,Higiene Pessoal
+66-75,Feminino,Quinzenal,<50,Limpeza
+>75,Masculino,Mensal,>200,Limpeza
+36-45,Masculino,Mensal,150-200,Limpeza
+26-35,Masculino,Diária,150-200,Outros
+26-35,Feminino,Mensal,>200,Limpeza
+36-45,Feminino,Diária,100-150,Outros
+>75,Masculino,Semanal,<50,Outros
+66-75,Feminino,Mensal,<50,Higiene Pessoal
+36-45,Feminino,Mensal,150-200,Alimentos
+56-65,Feminino,Semanal,>200,Higiene Pessoal
+56-65,Masculino,Semanal,<50,Higiene Pessoal
+26-35,Feminino,Semanal,<50,Outros
+46-55,Feminino,Mensal,100-150,Outros
+66-75,Masculino,Quinzenal,50-100,Limpeza
+26-35,Masculino,Quinzenal,150-200,Limpeza
+46-55,Feminino,Quinzenal,150-200,Higiene Pessoal
+46-55,Feminino,Mensal,50-100,Bebidas
+56-65,Masculino,Semanal,<50,Bebidas
+>75,Masculino,Mensal,100-150,Limpeza
+18-25,Feminino,Semanal,100-150,Bebidas
+>75,Feminino,Mensal,150-200,Limpeza
+18-25,Feminino,Mensal,100-150,Outros
+36-45,Feminino,Semanal,50-100,Higiene Pessoal
+56-65,Masculino,Quinzenal,<50,Alimentos
+46-55,Feminino,Semanal,50-100,Higiene Pessoal
+66-75,Feminino,Diária,>200,Limpeza
+18-25,Masculino,Diária,150-200,Limpeza
+>75,Feminino,Semanal,100-150,Higiene Pessoal
+46-55,Masculino,Mensal,>200,Limpeza
+18-25,Feminino,Diária,100-150,Bebidas
+18-25,Feminino,Diária,<50,Bebidas
+18-25,Masculino,Mensal,<50,Limpeza
+66-75,Masculino,Mensal,<50,Limpeza
+56-65,Feminino,Quinzenal,100-150,Bebidas
+66-75,Feminino,Mensal,>200,Limpeza
+26-35,Feminino,Semanal,<50,Limpeza
+46-55,Masculino,Semanal,>200,Higiene Pessoal
+56-65,Feminino,Quinzenal,100-150,Alimentos
+56-65,Masculino,Diária,>200,Bebidas
+56-65,Masculino,Diária,100-150,Higiene Pessoal
+>75,Feminino,Mensal,100-150,Alimentos
+56-65,Masculino,Semanal,150-200,Limpeza
+66-75,Feminino,Diária,100-150,Limpeza
+56-65,Feminino,Quinzenal,100-150,Higiene Pessoal
+36-45,Feminino,Quinzenal,50-100,Limpeza
+46-55,Feminino,Semanal,<50,Outros
+56-65,Feminino,Quinzenal,150-200,Higiene Pessoal
+46-55,Masculino,Quinzenal,150-200,Alimentos
+36-45,Masculino,Semanal,150-200,Higiene Pessoal
+36-45,Feminino,Mensal,50-100,Bebidas
+46-55,Feminino,Mensal,100-150,Higiene Pessoal
+18-25,Masculino,Quinzenal,<50,Limpeza
+26-35,Masculino,Mensal,>200,Limpeza
+>75,Masculino,Mensal,100-150,Outros
+18-25,Masculino,Quinzenal,50-100,Outros
+18-25,Feminino,Mensal,100-150,Outros
+66-75,Feminino,Quinzenal,100-150,Alimentos
+>75,Masculino,Diária,50-100,Outros
+>75,Feminino,Semanal,150-200,Alimentos
+18-25,Masculino,Semanal,150-200,Outros
+56-65,Feminino,Mensal,<50,Alimentos
+66-75,Masculino,Mensal,<50,Higiene Pessoal
+66-75,Feminino,Mensal,150-200,Higiene Pessoal
+36-45,Masculino,Semanal,>200,Limpeza
+>75,Masculino,Diária,100-150,Alimentos
+18-25,Feminino,Diária,>200,Bebidas
+36-45,Masculino,Semanal,100-150,Limpeza
+46-55,Feminino,Diária,150-200,Higiene Pessoal
+26-35,Feminino,Semanal,<50,Alimentos
+66-75,Masculino,Diária,<50,Outros
+46-55,Feminino,Quinzenal,>200,Bebidas
+46-55,Feminino,Quinzenal,<50,Higiene Pessoal
+56-65,Feminino,Semanal,150-200,Limpeza
+26-35,Feminino,Diária,>200,Alimentos
+46-55,Feminino,Mensal,100-150,Bebidas
+46-55,Masculino,Diária,<50,Alimentos
+26-35,Feminino,Quinzenal,50-100,Outros
+26-35,Feminino,Quinzenal,<50,Limpeza
+46-55,Feminino,Diária,100-150,Alimentos
+26-35,Feminino,Diária,>200,Higiene Pessoal
+46-55,Feminino,Mensal,100-150,Limpeza
+46-55,Masculino,Mensal,50-100,Higiene Pessoal
+56-65,Feminino,Diária,150-200,Alimentos
+18-25,Masculino,Diária,<50,Limpeza
+46-55,Masculino,Diária,>200,Higiene Pessoal
+36-45,Masculino,Diária,150-200,Outros
+66-75,Masculino,Semanal,100-150,Outros
+>75,Feminino,Diária,>200,Alimentos
+18-25,Masculino,Mensal,150-200,Limpeza
+18-25,Masculino,Quinzenal,>200,Bebidas
+18-25,Feminino,Semanal,50-100,Limpeza
+56-65,Feminino,Diária,50-100,Outros
+46-55,Feminino,Quinzenal,<50,Higiene Pessoal
+56-65,Masculino,Semanal,<50,Bebidas
+46-55,Feminino,Quinzenal,50-100,Alimentos
+56-65,Feminino,Diária,>200,Bebidas
+56-65,Masculino,Diária,50-100,Alimentos
+66-75,Feminino,Mensal,<50,Bebidas
+36-45,Feminino,Diária,50-100,Alimentos
+56-65,Feminino,Diária,50-100,Alimentos
+66-75,Feminino,Semanal,>200,Bebidas
+26-35,Masculino,Mensal,150-200,Bebidas
+36-45,Feminino,Semanal,<50,Alimentos
+56-65,Feminino,Quinzenal,>200,Outros
+>75,Masculino,Diária,50-100,Bebidas
+18-25,Feminino,Quinzenal,50-100,Limpeza
+26-35,Masculino,Semanal,150-200,Higiene Pessoal
+26-35,Feminino,Diária,<50,Alimentos
+66-75,Masculino,Diária,<50,Alimentos
+26-35,Masculino,Semanal,100-150,Higiene Pessoal
+36-45,Masculino,Semanal,<50,Outros
+56-65,Masculino,Semanal,150-200,Higiene Pessoal
+56-65,Feminino,Semanal,100-150,Bebidas
+>75,Masculino,Semanal,100-150,Higiene Pessoal
+18-25,Feminino,Diária,50-100,Alimentos
+66-75,Masculino,Semanal,50-100,Higiene Pessoal
+18-25,Masculino,Diária,<50,Limpeza
+26-35,Masculino,Diária,100-150,Bebidas
+>75,Feminino,Semanal,50-100,Higiene Pessoal
+18-25,Masculino,Semanal,150-200,Alimentos
+36-45,Feminino,Mensal,50-100,Bebidas
+56-65,Feminino,Diária,50-100,Alimentos
+26-35,Feminino,Semanal,100-150,Outros
+>75,Feminino,Semanal,100-150,Limpeza
+18-25,Feminino,Semanal,>200,Outros
+66-75,Feminino,Mensal,150-200,Limpeza
+36-45,Feminino,Mensal,100-150,Higiene Pessoal
+36-45,Feminino,Quinzenal,<50,Bebidas
+18-25,Feminino,Diária,150-200,Higiene Pessoal
+56-65,Masculino,Quinzenal,150-200,Limpeza
+18-25,Masculino,Semanal,100-150,Limpeza
+26-35,Masculino,Mensal,150-200,Limpeza
+18-25,Masculino,Mensal,100-150,Alimentos
+36-45,Masculino,Quinzenal,50-100,Bebidas
+>75,Feminino,Mensal,>200,Higiene Pessoal
+18-25,Feminino,Semanal,50-100,Higiene Pessoal
+56-65,Feminino,Mensal,100-150,Outros
+>75,Feminino,Quinzenal,100-150,Limpeza
+66-75,Feminino,Semanal,50-100,Limpeza
+46-55,Feminino,Quinzenal,<50,Limpeza
+18-25,Feminino,Mensal,<50,Higiene Pessoal
+56-65,Masculino,Quinzenal,<50,Outros
+>75,Masculino,Quinzenal,100-150,Alimentos
+56-65,Masculino,Diária,150-200,Bebidas
+66-75,Masculino,Mensal,100-150,Alimentos
+36-45,Feminino,Mensal,150-200,Higiene Pessoal
+56-65,Feminino,Quinzenal,50-100,Limpeza
+>75,Feminino,Diária,>200,Bebidas
+56-65,Masculino,Mensal,150-200,Higiene Pessoal
+56-65,Feminino,Semanal,<50,Higiene Pessoal
+56-65,Feminino,Quinzenal,100-150,Higiene Pessoal
+26-35,Feminino,Mensal,50-100,Bebidas
+26-35,Masculino,Semanal,<50,Bebidas
+36-45,Feminino,Mensal,50-100,Outros
+18-25,Masculino,Semanal,>200,Outros
+56-65,Masculino,Quinzenal,100-150,Alimentos
+66-75,Masculino,Mensal,100-150,Bebidas
+18-25,Masculino,Mensal,>200,Bebidas
+66-75,Feminino,Diária,100-150,Bebidas
+18-25,Masculino,Quinzenal,150-200,Outros
+36-45,Masculino,Semanal,50-100,Higiene Pessoal
+56-65,Feminino,Mensal,<50,Limpeza
+56-65,Feminino,Mensal,>200,Outros
+46-55,Masculino,Semanal,150-200,Bebidas
+66-75,Feminino,Quinzenal,<50,Outros
+18-25,Masculino,Diária,<50,Alimentos
+18-25,Masculino,Diária,>200,Bebidas
+26-35,Masculino,Mensal,150-200,Alimentos
+46-55,Masculino,Semanal,<50,Bebidas
+>75,Feminino,Mensal,<50,Outros
+>75,Masculino,Semanal,150-200,Higiene Pessoal
+26-35,Feminino,Diária,100-150,Limpeza
+26-35,Feminino,Quinzenal,<50,Alimentos
+26-35,Feminino,Semanal,50-100,Outros
+66-75,Feminino,Diária,150-200,Higiene Pessoal
+66-75,Masculino,Mensal,<50,Outros
+36-45,Feminino,Semanal,>200,Alimentos
+36-45,Masculino,Quinzenal,50-100,Limpeza
+26-35,Feminino,Mensal,<50,Outros
+46-55,Feminino,Mensal,50-100,Bebidas
+18-25,Masculino,Diária,50-100,Higiene Pessoal
+66-75,Masculino,Semanal,100-150,Outros
+46-55,Masculino,Mensal,50-100,Higiene Pessoal
+56-65,Feminino,Quinzenal,100-150,Bebidas
+66-75,Feminino,Semanal,150-200,Limpeza
+66-75,Masculino,Quinzenal,100-150,Limpeza
+36-45,Masculino,Mensal,>200,Bebidas
+18-25,Masculino,Quinzenal,<50,Higiene Pessoal
+18-25,Masculino,Diária,150-200,Outros
+>75,Feminino,Quinzenal,150-200,Bebidas
+>75,Masculino,Semanal,>200,Alimentos
+>75,Masculino,Quinzenal,100-150,Higiene Pessoal
+>75,Masculino,Quinzenal,<50,Limpeza
+56-65,Masculino,Diária,100-150,Bebidas
+56-65,Feminino,Quinzenal,50-100,Limpeza
+66-75,Masculino,Quinzenal,100-150,Higiene Pessoal
+26-35,Feminino,Mensal,150-200,Limpeza
+36-45,Masculino,Mensal,<50,Bebidas
+36-45,Masculino,Semanal,100-150,Higiene Pessoal
+>75,Feminino,Mensal,<50,Alimentos
+66-75,Masculino,Mensal,<50,Bebidas
+46-55,Feminino,Mensal,50-100,Outros
+26-35,Feminino,Mensal,50-100,Bebidas
+66-75,Masculino,Diária,150-200,Higiene Pessoal
+26-35,Feminino,Mensal,>200,Bebidas
+26-35,Feminino,Diária,<50,Alimentos
+26-35,Feminino,Diária,>200,Alimentos
+66-75,Feminino,Mensal,150-200,Outros
+>75,Feminino,Quinzenal,<50,Limpeza
+36-45,Feminino,Diária,<50,Higiene Pessoal
+36-45,Feminino,Quinzenal,>200,Higiene Pessoal
+>75,Feminino,Quinzenal,100-150,Limpeza
+26-35,Masculino,Mensal,50-100,Alimentos
+46-55,Masculino,Semanal,100-150,Alimentos
+18-25,Feminino,Mensal,>200,Bebidas
+66-75,Masculino,Semanal,50-100,Outros
+18-25,Feminino,Semanal,100-150,Outros
+>75,Feminino,Mensal,50-100,Outros
+46-55,Masculino,Mensal,<50,Bebidas
+66-75,Feminino,Semanal,100-150,Outros
+>75,Feminino,Mensal,50-100,Limpeza
+26-35,Feminino,Semanal,50-100,Bebidas
+36-45,Feminino,Quinzenal,50-100,Limpeza
+18-25,Masculino,Mensal,100-150,Bebidas
+56-65,Feminino,Quinzenal,150-200,Outros
+56-65,Feminino,Diária,100-150,Limpeza
+46-55,Feminino,Quinzenal,>200,Limpeza
+26-35,Masculino,Quinzenal,100-150,Limpeza
+18-25,Feminino,Semanal,50-100,Bebidas
+26-35,Masculino,Quinzenal,<50,Higiene Pessoal
+18-25,Masculino,Mensal,100-150,Outros
+46-55,Feminino,Semanal,100-150,Limpeza
+46-55,Feminino,Diária,50-100,Higiene Pessoal
+56-65,Masculino,Mensal,<50,Outros
+26-35,Feminino,Diária,<50,Outros
+66-75,Masculino,Quinzenal,>200,Limpeza
+56-65,Masculino,Mensal,100-150,Limpeza
+26-35,Feminino,Mensal,<50,Bebidas
+56-65,Feminino,Diária,<50,Higiene Pessoal
+66-75,Masculino,Mensal,150-200,Higiene Pessoal
+36-45,Masculino,Mensal,150-200,Limpeza
+36-45,Masculino,Mensal,<50,Outros
+36-45,Masculino,Quinzenal,>200,Limpeza
+36-45,Feminino,Diária,<50,Outros
+>75,Feminino,Mensal,50-100,Outros
+18-25,Feminino,Semanal,100-150,Limpeza
+>75,Feminino,Semanal,>200,Alimentos
+>75,Feminino,Semanal,50-100,Higiene Pessoal
+>75,Masculino,Semanal,>200,Outros
+36-45,Feminino,Quinzenal,50-100,Outros
+66-75,Feminino,Mensal,100-150,Alimentos
+46-55,Feminino,Diária,100-150,Bebidas
+46-55,Feminino,Mensal,150-200,Alimentos
+18-25,Feminino,Quinzenal,50-100,Alimentos
+36-45,Masculino,Semanal,150-200,Outros
+36-45,Masculino,Quinzenal,50-100,Higiene Pessoal
+36-45,Masculino,Mensal,150-200,Alimentos
+56-65,Feminino,Diária,100-150,Bebidas
+26-35,Masculino,Quinzenal,>200,Limpeza
+56-65,Masculino,Diária,150-200,Alimentos
+26-35,Feminino,Quinzenal,50-100,Alimentos
+36-45,Feminino,Diária,50-100,Bebidas
+36-45,Feminino,Diária,100-150,Higiene Pessoal
+56-65,Masculino,Semanal,50-100,Alimentos
+56-65,Masculino,Diária,<50,Alimentos
+26-35,Feminino,Semanal,>200,Higiene Pessoal
+46-55,Feminino,Mensal,150-200,Bebidas
+26-35,Masculino,Mensal,>200,Alimentos
+56-65,Masculino,Semanal,100-150,Higiene Pessoal
+66-75,Feminino,Semanal,150-200,Alimentos
+56-65,Feminino,Quinzenal,150-200,Limpeza
+66-75,Masculino,Quinzenal,<50,Outros
+18-25,Feminino,Quinzenal,100-150,Limpeza
+56-65,Masculino,Mensal,50-100,Alimentos
+18-25,Masculino,Quinzenal,<50,Bebidas
+46-55,Masculino,Diária,<50,Outros
+26-35,Masculino,Diária,>200,Limpeza
+66-75,Feminino,Quinzenal,>200,Higiene Pessoal
+26-35,Feminino,Diária,>200,Bebidas
+18-25,Masculino,Mensal,<50,Limpeza
+66-75,Masculino,Diária,50-100,Higiene Pessoal
+26-35,Masculino,Mensal,150-200,Alimentos
+56-65,Masculino,Semanal,>200,Higiene Pessoal
+36-45,Masculino,Semanal,50-100,Limpeza
+18-25,Feminino,Semanal,100-150,Limpeza
+26-35,Feminino,Semanal,>200,Alimentos
+18-25,Feminino,Diária,150-200,Higiene Pessoal
+>75,Feminino,Quinzenal,100-150,Higiene Pessoal
+18-25,Masculino,Diária,100-150,Alimentos
+66-75,Masculino,Mensal,150-200,Higiene Pessoal
+>75,Masculino,Diária,>200,Alimentos
+66-75,Masculino,Diária,<50,Bebidas
+36-45,Masculino,Mensal,150-200,Limpeza
+>75,Feminino,Semanal,150-200,Bebidas
+56-65,Masculino,Semanal,150-200,Outros
+18-25,Feminino,Semanal,100-150,Outros
+26-35,Feminino,Quinzenal,50-100,Outros
+46-55,Feminino,Mensal,<50,Alimentos
+18-25,Feminino,Mensal,>200,Higiene Pessoal
+18-25,Masculino,Diária,>200,Bebidas
+36-45,Feminino,Quinzenal,50-100,Bebidas
+56-65,Feminino,Semanal,150-200,Bebidas
+46-55,Feminino,Quinzenal,<50,Bebidas
+>75,Masculino,Mensal,>200,Outros
+>75,Masculino,Mensal,>200,Bebidas
+>75,Masculino,Diária,150-200,Higiene Pessoal
+66-75,Feminino,Diária,50-100,Outros
+66-75,Feminino,Mensal,<50,Bebidas
+26-35,Masculino,Semanal,50-100,Alimentos
+46-55,Feminino,Semanal,50-100,Limpeza
+>75,Masculino,Quinzenal,<50,Limpeza
+66-75,Masculino,Mensal,<50,Limpeza
+26-35,Feminino,Mensal,>200,Outros
+56-65,Feminino,Semanal,>200,Bebidas
+26-35,Feminino,Semanal,<50,Outros
+66-75,Feminino,Mensal,100-150,Higiene Pessoal
+36-45,Masculino,Diária,>200,Alimentos
+36-45,Masculino,Mensal,100-150,Alimentos
+>75,Masculino,Mensal,<50,Limpeza
+36-45,Masculino,Semanal,>200,Limpeza
+>75,Masculino,Semanal,50-100,Limpeza
+>75,Feminino,Diária,<50,Bebidas
+66-75,Masculino,Diária,150-200,Higiene Pessoal
+36-45,Masculino,Quinzenal,100-150,Higiene Pessoal
+>75,Masculino,Mensal,<50,Higiene Pessoal
+46-55,Feminino,Semanal,<50,Higiene Pessoal
+56-65,Feminino,Diária,>200,Limpeza
+26-35,Feminino,Quinzenal,>200,Alimentos
+26-35,Feminino,Quinzenal,>200,Limpeza
+66-75,Masculino,Semanal,150-200,Higiene Pessoal
+36-45,Masculino,Semanal,>200,Limpeza
+36-45,Feminino,Quinzenal,<50,Higiene Pessoal
+>75,Feminino,Diária,>200,Outros
+18-25,Masculino,Quinzenal,50-100,Alimentos
+>75,Masculino,Mensal,>200,Outros
+56-65,Feminino,Mensal,150-200,Bebidas
+46-55,Feminino,Semanal,50-100,Limpeza
+26-35,Feminino,Diária,<50,Bebidas
+>75,Feminino,Diária,<50,Limpeza
+18-25,Masculino,Mensal,100-150,Outros
+18-25,Masculino,Quinzenal,50-100,Higiene Pessoal
+>75,Masculino,Semanal,100-150,Higiene Pessoal
+66-75,Feminino,Quinzenal,50-100,Limpeza
+26-35,Feminino,Quinzenal,50-100,Higiene Pessoal
+66-75,Masculino,Quinzenal,150-200,Outros
+46-55,Masculino,Diária,100-150,Higiene Pessoal
+18-25,Masculino,Mensal,150-200,Outros
+18-25,Masculino,Diária,50-100,Bebidas
+56-65,Feminino,Mensal,<50,Outros
+46-55,Masculino,Semanal,50-100,Alimentos
+18-25,Masculino,Semanal,150-200,Alimentos
+46-55,Masculino,Quinzenal,100-150,Alimentos
+26-35,Masculino,Mensal,100-150,Limpeza
+36-45,Masculino,Mensal,150-200,Limpeza
+18-25,Masculino,Mensal,100-150,Limpeza
+56-65,Masculino,Quinzenal,>200,Outros
+26-35,Feminino,Quinzenal,<50,Limpeza
+>75,Feminino,Semanal,<50,Bebidas
+46-55,Feminino,Diária,<50,Alimentos
+>75,Feminino,Mensal,100-150,Outros
+66-75,Masculino,Mensal,100-150,Alimentos
+26-35,Feminino,Diária,50-100,Limpeza
+>75,Feminino,Mensal,50-100,Outros
+18-25,Masculino,Quinzenal,<50,Higiene Pessoal
+46-55,Masculino,Quinzenal,>200,Bebidas
+36-45,Feminino,Mensal,50-100,Limpeza
+26-35,Feminino,Quinzenal,50-100,Limpeza
+18-25,Masculino,Quinzenal,100-150,Bebidas
+56-65,Feminino,Mensal,>200,Bebidas
+66-75,Masculino,Semanal,<50,Higiene Pessoal
+46-55,Masculino,Diária,50-100,Limpeza
+26-35,Masculino,Quinzenal,>200,Limpeza
+26-35,Masculino,Semanal,>200,Alimentos
+36-45,Feminino,Quinzenal,<50,Outros
+36-45,Masculino,Quinzenal,>200,Outros
+56-65,Masculino,Diária,>200,Alimentos
+66-75,Feminino,Quinzenal,>200,Outros
+56-65,Masculino,Diária,50-100,Bebidas
+18-25,Feminino,Diária,<50,Outros
+18-25,Feminino,Diária,>200,Outros
+56-65,Feminino,Semanal,>200,Alimentos
+66-75,Masculino,Mensal,50-100,Higiene Pessoal
+56-65,Feminino,Semanal,<50,Outros
+66-75,Feminino,Mensal,100-150,Outros
+66-75,Masculino,Mensal,50-100,Higiene Pessoal
+>75,Feminino,Diária,<50,Alimentos
+46-55,Feminino,Quinzenal,>200,Higiene Pessoal
+66-75,Feminino,Diária,<50,Alimentos
+36-45,Feminino,Quinzenal,<50,Bebidas
+66-75,Feminino,Mensal,<50,Alimentos
+66-75,Masculino,Diária,100-150,Bebidas
+66-75,Feminino,Quinzenal,<50,Bebidas
+>75,Feminino,Semanal,100-150,Alimentos
+>75,Masculino,Quinzenal,>200,Limpeza
+18-25,Masculino,Diária,100-150,Alimentos
+>75,Masculino,Semanal,>200,Outros
+36-45,Feminino,Quinzenal,>200,Outros
+36-45,Masculino,Quinzenal,100-150,Limpeza
+>75,Feminino,Quinzenal,50-100,Bebidas
+56-65,Feminino,Quinzenal,150-200,Limpeza
+46-55,Masculino,Quinzenal,<50,Outros
+>75,Masculino,Semanal,150-200,Limpeza
+66-75,Feminino,Mensal,<50,Alimentos
+26-35,Masculino,Semanal,<50,Limpeza
+46-55,Feminino,Semanal,>200,Bebidas
+46-55,Masculino,Semanal,<50,Alimentos
+36-45,Masculino,Mensal,<50,Higiene Pessoal
+46-55,Masculino,Diária,100-150,Outros
+>75,Feminino,Mensal,150-200,Outros
+66-75,Masculino,Semanal,100-150,Limpeza
+66-75,Feminino,Quinzenal,<50,Alimentos
+18-25,Feminino,Quinzenal,>200,Higiene Pessoal
+66-75,Feminino,Semanal,100-150,Alimentos
+66-75,Feminino,Quinzenal,100-150,Outros
+36-45,Masculino,Semanal,50-100,Alimentos
+66-75,Feminino,Quinzenal,<50,Higiene Pessoal
+18-25,Feminino,Mensal,>200,Limpeza
+26-35,Masculino,Diária,100-150,Bebidas
+>75,Feminino,Diária,100-150,Alimentos
+36-45,Masculino,Mensal,>200,Bebidas
+26-35,Feminino,Mensal,<50,Outros
+36-45,Masculino,Semanal,50-100,Limpeza
+56-65,Feminino,Semanal,100-150,Limpeza
+46-55,Masculino,Semanal,50-100,Alimentos
+56-65,Feminino,Quinzenal,150-200,Limpeza
+66-75,Feminino,Semanal,<50,Alimentos
+26-35,Masculino,Mensal,150-200,Alimentos
+66-75,Masculino,Diária,150-200,Bebidas
+46-55,Masculino,Quinzenal,150-200,Limpeza
+36-45,Masculino,Semanal,<50,Alimentos
+46-55,Feminino,Quinzenal,<50,Bebidas
+18-25,Feminino,Quinzenal,>200,Higiene Pessoal
+46-55,Masculino,Semanal,50-100,Bebidas
+18-25,Feminino,Quinzenal,50-100,Bebidas
+46-55,Masculino,Diária,>200,Alimentos
+>75,Masculino,Mensal,>200,Outros
+18-25,Feminino,Mensal,150-200,Outros
+26-35,Feminino,Diária,>200,Outros
+66-75,Feminino,Quinzenal,100-150,Bebidas
+66-75,Feminino,Semanal,50-100,Alimentos
+56-65,Feminino,Quinzenal,>200,Limpeza
+66-75,Feminino,Diária,100-150,Bebidas
+36-45,Feminino,Quinzenal,100-150,Bebidas
+>75,Masculino,Mensal,100-150,Alimentos
+46-55,Masculino,Quinzenal,100-150,Higiene Pessoal
+56-65,Masculino,Diária,150-200,Bebidas
+36-45,Masculino,Mensal,100-150,Higiene Pessoal
+36-45,Masculino,Quinzenal,150-200,Higiene Pessoal
+18-25,Feminino,Quinzenal,150-200,Outros
+66-75,Masculino,Mensal,100-150,Alimentos
+26-35,Masculino,Semanal,50-100,Higiene Pessoal
+26-35,Masculino,Mensal,100-150,Alimentos
+56-65,Masculino,Semanal,100-150,Outros
+>75,Masculino,Diária,100-150,Alimentos
+26-35,Masculino,Diária,50-100,Bebidas
+46-55,Masculino,Mensal,<50,Higiene Pessoal
+26-35,Feminino,Mensal,<50,Alimentos
+56-65,Feminino,Diária,150-200,Limpeza
+26-35,Masculino,Semanal,150-200,Alimentos
+46-55,Feminino,Diária,50-100,Higiene Pessoal
+18-25,Feminino,Mensal,>200,Outros
+>75,Feminino,Diária,<50,Outros
+56-65,Feminino,Mensal,150-200,Higiene Pessoal
+18-25,Masculino,Mensal,<50,Bebidas
+18-25,Feminino,Diária,50-100,Bebidas
+18-25,Feminino,Semanal,50-100,Outros
+36-45,Feminino,Quinzenal,>200,Outros
+>75,Masculino,Diária,>200,Higiene Pessoal
+66-75,Masculino,Quinzenal,50-100,Bebidas
+>75,Masculino,Diária,150-200,Outros
+36-45,Masculino,Quinzenal,<50,Bebidas
+66-75,Masculino,Semanal,100-150,Outros
+>75,Masculino,Semanal,>200,Alimentos
+18-25,Masculino,Diária,100-150,Limpeza
+56-65,Feminino,Mensal,150-200,Alimentos
+66-75,Feminino,Quinzenal,>200,Outros
+46-55,Feminino,Mensal,100-150,Limpeza
+46-55,Masculino,Mensal,150-200,Limpeza
+26-35,Masculino,Mensal,<50,Outros
+66-75,Masculino,Semanal,150-200,Outros
+56-65,Masculino,Diária,>200,Bebidas
+36-45,Masculino,Diária,50-100,Outros
+18-25,Feminino,Semanal,<50,Higiene Pessoal
+26-35,Feminino,Semanal,100-150,Outros
+46-55,Masculino,Diária,>200,Higiene Pessoal
+36-45,Masculino,Mensal,50-100,Outros
+36-45,Masculino,Quinzenal,150-200,Bebidas
+18-25,Masculino,Quinzenal,50-100,Higiene Pessoal
+66-75,Feminino,Quinzenal,>200,Alimentos
+46-55,Masculino,Mensal,>200,Higiene Pessoal
+56-65,Masculino,Diária,50-100,Bebidas
+36-45,Masculino,Semanal,150-200,Higiene Pessoal
+18-25,Masculino,Diária,50-100,Outros
+56-65,Feminino,Mensal,>200,Outros
+66-75,Masculino,Semanal,>200,Bebidas
+46-55,Masculino,Mensal,100-150,Limpeza
+66-75,Feminino,Quinzenal,100-150,Outros
+36-45,Feminino,Quinzenal,<50,Alimentos
+56-65,Feminino,Mensal,>200,Bebidas
+56-65,Masculino,Semanal,100-150,Higiene Pessoal
+56-65,Masculino,Semanal,50-100,Higiene Pessoal
+36-45,Feminino,Diária,150-200,Alimentos
+36-45,Feminino,Quinzenal,50-100,Outros
+66-75,Feminino,Diária,150-200,Bebidas
+26-35,Feminino,Diária,100-150,Alimentos
+66-75,Feminino,Mensal,<50,Outros
+46-55,Feminino,Mensal,50-100,Bebidas
+18-25,Masculino,Diária,50-100,Higiene Pessoal
+56-65,Masculino,Quinzenal,50-100,Bebidas
+26-35,Masculino,Mensal,150-200,Limpeza
+18-25,Feminino,Diária,100-150,Bebidas
+26-35,Feminino,Diária,50-100,Limpeza
+>75,Feminino,Diária,50-100,Bebidas
+66-75,Feminino,Diária,<50,Limpeza
+36-45,Feminino,Diária,<50,Higiene Pessoal
+56-65,Feminino,Diária,100-150,Outros
+66-75,Masculino,Mensal,100-150,Limpeza
+18-25,Masculino,Quinzenal,>200,Limpeza
+>75,Feminino,Diária,<50,Higiene Pessoal
+>75,Masculino,Semanal,>200,Limpeza
+>75,Feminino,Mensal,150-200,Alimentos
+18-25,Masculino,Mensal,>200,Higiene Pessoal
+18-25,Feminino,Diária,50-100,Alimentos
+18-25,Feminino,Mensal,>200,Higiene Pessoal
+18-25,Masculino,Diária,100-150,Limpeza
+>75,Masculino,Quinzenal,150-200,Alimentos
+>75,Feminino,Quinzenal,50-100,Limpeza
+26-35,Feminino,Mensal,>200,Higiene Pessoal
+66-75,Masculino,Mensal,150-200,Limpeza
+56-65,Masculino,Semanal,150-200,Alimentos
+36-45,Feminino,Mensal,50-100,Alimentos
+>75,Masculino,Semanal,>200,Limpeza
+36-45,Feminino,Quinzenal,150-200,Bebidas
+66-75,Feminino,Quinzenal,150-200,Higiene Pessoal
+66-75,Feminino,Diária,<50,Higiene Pessoal
+36-45,Feminino,Quinzenal,150-200,Limpeza
+>75,Masculino,Semanal,<50,Bebidas
+36-45,Masculino,Mensal,>200,Alimentos
+26-35,Masculino,Diária,>200,Outros
+46-55,Masculino,Semanal,>200,Outros
+>75,Masculino,Mensal,100-150,Limpeza
+>75,Masculino,Diária,>200,Bebidas
+56-65,Masculino,Quinzenal,150-200,Bebidas
+18-25,Feminino,Semanal,50-100,Higiene Pessoal
+46-55,Masculino,Mensal,<50,Alimentos
+66-75,Masculino,Diária,100-150,Bebidas
+>75,Feminino,Diária,>200,Outros
+36-45,Masculino,Quinzenal,>200,Alimentos
+46-55,Masculino,Mensal,50-100,Alimentos
+56-65,Feminino,Quinzenal,50-100,Limpeza
+66-75,Masculino,Quinzenal,100-150,Bebidas
+18-25,Masculino,Mensal,<50,Limpeza
+18-25,Masculino,Mensal,>200,Bebidas
+56-65,Feminino,Mensal,100-150,Higiene Pessoal
+56-65,Masculino,Semanal,150-200,Limpeza
+36-45,Masculino,Mensal,150-200,Limpeza
+>75,Feminino,Diária,100-150,Outros
+18-25,Masculino,Quinzenal,>200,Limpeza
+66-75,Feminino,Semanal,100-150,Bebidas
+46-55,Feminino,Mensal,>200,Outros
+66-75,Masculino,Semanal,50-100,Limpeza
+26-35,Feminino,Mensal,100-150,Limpeza
+26-35,Feminino,Semanal,>200,Higiene Pessoal
+56-65,Masculino,Quinzenal,100-150,Limpeza
+36-45,Feminino,Quinzenal,100-150,Alimentos
+26-35,Feminino,Diária,>200,Outros
+18-25,Masculino,Diária,>200,Alimentos
+66-75,Masculino,Mensal,<50,Outros
+66-75,Masculino,Quinzenal,100-150,Higiene Pessoal
+56-65,Feminino,Semanal,150-200,Limpeza
+>75,Masculino,Semanal,100-150,Limpeza
+>75,Feminino,Semanal,100-150,Limpeza
+46-55,Feminino,Diária,>200,Outros
+56-65,Feminino,Semanal,100-150,Limpeza
+46-55,Feminino,Diária,100-150,Alimentos
+>75,Feminino,Diária,150-200,Limpeza
+56-65,Feminino,Mensal,>200,Higiene Pessoal
+56-65,Feminino,Semanal,100-150,Alimentos
+56-65,Masculino,Semanal,50-100,Limpeza
+>75,Masculino,Quinzenal,<50,Limpeza
+46-55,Feminino,Mensal,150-200,Bebidas
+46-55,Feminino,Quinzenal,100-150,Outros
+56-65,Masculino,Mensal,50-100,Alimentos
+26-35,Feminino,Semanal,100-150,Bebidas
+36-45,Masculino,Diária,100-150,Higiene Pessoal
+>75,Masculino,Diária,>200,Outros
+36-45,Masculino,Diária,>200,Alimentos
+36-45,Feminino,Diária,>200,Limpeza
+46-55,Feminino,Diária,50-100,Alimentos
+46-55,Masculino,Quinzenal,100-150,Limpeza
+26-35,Masculino,Mensal,<50,Outros
+36-45,Masculino,Semanal,150-200,Limpeza
+36-45,Masculino,Quinzenal,>200,Higiene Pessoal
+56-65,Masculino,Mensal,>200,Limpeza
+46-55,Feminino,Diária,100-150,Higiene Pessoal
+36-45,Masculino,Mensal,100-150,Outros
+66-75,Feminino,Mensal,50-100,Outros
+26-35,Masculino,Diária,50-100,Alimentos
+66-75,Feminino,Diária,>200,Higiene Pessoal
+66-75,Feminino,Diária,100-150,Higiene Pessoal
+>75,Feminino,Semanal,<50,Bebidas
+>75,Feminino,Diária,150-200,Bebidas
+26-35,Feminino,Semanal,100-150,Bebidas
+66-75,Feminino,Diária,100-150,Limpeza
+36-45,Masculino,Semanal,50-100,Bebidas
+46-55,Feminino,Mensal,150-200,Higiene Pessoal
+26-35,Masculino,Quinzenal,>200,Limpeza
+56-65,Feminino,Mensal,100-150,Outros
+66-75,Feminino,Mensal,>200,Alimentos
+26-35,Masculino,Diária,100-150,Bebidas
+18-25,Feminino,Semanal,>200,Outros
+18-25,Masculino,Quinzenal,150-200,Higiene Pessoal
+>75,Masculino,Diária,50-100,Alimentos
+46-55,Masculino,Diária,150-200,Outros
+36-45,Masculino,Diária,<50,Alimentos
+46-55,Feminino,Mensal,50-100,Bebidas
+46-55,Feminino,Semanal,150-200,Higiene Pessoal
+46-55,Masculino,Semanal,<50,Alimentos
+46-55,Feminino,Quinzenal,100-150,Outros
+56-65,Feminino,Semanal,100-150,Bebidas
+56-65,Masculino,Semanal,>200,Bebidas
+>75,Feminino,Diária,50-100,Outros
+26-35,Masculino,Diária,100-150,Outros
+18-25,Masculino,Mensal,50-100,Alimentos
+46-55,Feminino,Diária,100-150,Limpeza
+>75,Feminino,Diária,>200,Bebidas
+26-35,Feminino,Diária,150-200,Alimentos
+18-25,Masculino,Diária,>200,Outros
+66-75,Masculino,Mensal,<50,Alimentos
+36-45,Feminino,Diária,100-150,Outros
+56-65,Feminino,Quinzenal,<50,Higiene Pessoal
+66-75,Feminino,Quinzenal,<50,Outros
+18-25,Feminino,Quinzenal,50-100,Outros
+66-75,Masculino,Quinzenal,100-150,Outros
+36-45,Feminino,Diária,<50,Limpeza
+>75,Masculino,Quinzenal,150-200,Outros
+18-25,Masculino,Diária,<50,Bebidas
+66-75,Feminino,Mensal,150-200,Bebidas
+56-65,Feminino,Quinzenal,50-100,Alimentos
+56-65,Feminino,Semanal,<50,Limpeza
+26-35,Masculino,Quinzenal,>200,Alimentos
+66-75,Feminino,Quinzenal,50-100,Bebidas
+46-55,Feminino,Diária,150-200,Bebidas
+66-75,Masculino,Quinzenal,50-100,Higiene Pessoal
+>75,Feminino,Semanal,<50,Outros
+18-25,Masculino,Diária,100-150,Bebidas
+18-25,Feminino,Diária,100-150,Alimentos
+>75,Masculino,Mensal,150-200,Alimentos
+66-75,Feminino,Mensal,150-200,Outros
+>75,Feminino,Quinzenal,100-150,Outros
+36-45,Masculino,Mensal,150-200,Higiene Pessoal
+>75,Masculino,Mensal,50-100,Limpeza
+56-65,Feminino,Mensal,>200,Alimentos
+>75,Masculino,Diária,>200,Outros
+18-25,Masculino,Diária,50-100,Alimentos
+56-65,Masculino,Diária,>200,Outros
+18-25,Masculino,Mensal,<50,Bebidas
+26-35,Feminino,Diária,50-100,Alimentos
+46-55,Feminino,Mensal,150-200,Bebidas
+18-25,Masculino,Diária,50-100,Alimentos
+56-65,Masculino,Diária,100-150,Limpeza
+26-35,Masculino,Semanal,150-200,Higiene Pessoal
+18-25,Masculino,Quinzenal,100-150,Bebidas
+36-45,Feminino,Mensal,150-200,Outros
+>75,Feminino,Semanal,>200,Limpeza
+46-55,Masculino,Diária,50-100,Alimentos
+18-25,Masculino,Mensal,<50,Bebidas
+26-35,Masculino,Diária,150-200,Alimentos
+36-45,Feminino,Quinzenal,150-200,Alimentos
+66-75,Masculino,Semanal,100-150,Alimentos
+26-35,Feminino,Quinzenal,>200,Higiene Pessoal
+>75,Masculino,Semanal,100-150,Higiene Pessoal
+26-35,Feminino,Diária,100-150,Outros
+36-45,Masculino,Quinzenal,>200,Bebidas
+26-35,Feminino,Quinzenal,<50,Limpeza
+36-45,Masculino,Diária,100-150,Limpeza
+18-25,Masculino,Quinzenal,100-150,Limpeza
+36-45,Masculino,Mensal,150-200,Alimentos
+36-45,Feminino,Semanal,>200,Higiene Pessoal
+46-55,Masculino,Semanal,50-100,Bebidas
+36-45,Feminino,Semanal,<50,Alimentos
+36-45,Feminino,Mensal,<50,Higiene Pessoal
+66-75,Masculino,Semanal,>200,Higiene Pessoal
+18-25,Masculino,Diária,150-200,Bebidas
+>75,Masculino,Quinzenal,150-200,Bebidas
+46-55,Feminino,Mensal,>200,Bebidas
+66-75,Masculino,Semanal,150-200,Alimentos
+56-65,Feminino,Diária,<50,Outros
+18-25,Feminino,Quinzenal,<50,Bebidas
+18-25,Masculino,Quinzenal,50-100,Outros
+56-65,Masculino,Mensal,>200,Alimentos
+>75,Masculino,Mensal,100-150,Outros
+36-45,Masculino,Mensal,100-150,Limpeza
+66-75,Masculino,Diária,50-100,Outros
+26-35,Masculino,Diária,50-100,Bebidas
+46-55,Feminino,Mensal,150-200,Alimentos
+26-35,Feminino,Semanal,50-100,Bebidas
+56-65,Feminino,Quinzenal,50-100,Limpeza
+18-25,Masculino,Quinzenal,100-150,Bebidas
+>75,Feminino,Diária,150-200,Bebidas
+18-25,Feminino,Quinzenal,50-100,Bebidas
+46-55,Feminino,Semanal,50-100,Higiene Pessoal
+18-25,Feminino,Quinzenal,150-200,Limpeza
+18-25,Feminino,Diária,>200,Bebidas
+46-55,Masculino,Diária,150-200,Bebidas
+66-75,Masculino,Semanal,100-150,Bebidas
+66-75,Feminino,Semanal,>200,Alimentos
+46-55,Feminino,Quinzenal,<50,Higiene Pessoal
+>75,Feminino,Quinzenal,150-200,Alimentos
+56-65,Masculino,Diária,100-150,Higiene Pessoal
+18-25,Masculino,Semanal,>200,Bebidas
+>75,Feminino,Semanal,150-200,Limpeza
+18-25,Masculino,Semanal,50-100,Outros
+56-65,Masculino,Quinzenal,150-200,Outros
+66-75,Feminino,Semanal,<50,Bebidas
+>75,Masculino,Diária,150-200,Alimentos
+36-45,Masculino,Diária,>200,Limpeza
+36-45,Feminino,Quinzenal,>200,Higiene Pessoal
+36-45,Masculino,Mensal,150-200,Bebidas
+66-75,Masculino,Quinzenal,>200,Limpeza
